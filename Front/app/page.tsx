@@ -8,7 +8,7 @@ export default function HomePage() {
 
       <div className="text-center space-y-6 max-w-3xl mx-auto">
         <h1 className="text-5xl md:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-purple-300 to-blue-400">
-          Application and Security
+            Security Application
         </h1>
         
         <p className="text-lg text-gray-300 leading-relaxed">
