@@ -4,10 +4,10 @@
 A small tool for generating keystreams using **3 LFSRs** and an **alternating-step FSM**.
 
 <p align="center">
-  <img src="arch.png" width="300" />
+  <img src="arch.png" width="1000" />
 </p>
 
-All calculations are performed **entirely in the Python backend** — the frontend ONLY displays results.
+All calculations are performed **entirely in the Python backend**.
 
 ---
 
@@ -24,7 +24,7 @@ All calculations are performed **entirely in the Python backend** — the fronte
   ✔ Full state table
 * Runs the **FSM keystream generator** (alternating-step controlled by R1)
 * Export FSM output to **CSV**
-* **No math or logic in the frontend — everything comes from the backend**
+
 
 ---
 
