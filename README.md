@@ -39,7 +39,7 @@ cd SecurityRM
 
 ## **🌐 Frontend Setup**
 
-### **Linux **
+### **Linux**
 
 ```bash
 npm install react@18.2.0 react-dom@18.2.0 @types/react@18 @types/react-dom@18
@@ -68,7 +68,7 @@ Frontend runs at:
 
 ## **🧠 Backend Setup (Python + Flask)**
 
-### **Linux **
+### **Linux**
 
 ```bash
 python3 -m venv venv
