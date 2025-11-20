@@ -28,20 +28,47 @@ All calculations are performed **entirely in the Python backend**.
 
 ---
 
-## **📦 Frontend Setup**
+## **📥 Clone the Repository**
+
+```bash
+git clone https://github.com/issoupewd/SecurityRM
+cd SecurityRM
+```
+
+---
+
+## **🌐 Frontend Setup**
+
+### **Linux **
 
 ```bash
 npm install react@18.2.0 react-dom@18.2.0 @types/react@18 @types/react-dom@18
 npm install
+ls -l node_modules/.bin/next
+npm run dev
+```
+
+### **Windows (PowerShell / CMD)**
+
+```powershell
+npm install react@18.2.0 react-dom@18.2.0 @types/react@18 @types/react-dom@18
+npm install
+dir node_modules\.bin\next.cmd
 npm run dev
 ```
 
 Frontend runs at:
-👉 **[http://localhost:3000](http://localhost:3000)**
+**[http://localhost:3000](http://localhost:3000)**
+
+<p align="center">
+  <img src="site.png" width="700" />
+</p>
 
 ---
 
 ## **🧠 Backend Setup (Python + Flask)**
+
+### **Linux **
 
 ```bash
 python3 -m venv venv
@@ -50,7 +77,16 @@ pip install -r requirements.txt
 python3 app.py
 ```
 
+### **Windows (PowerShell / CMD)**
+
+```powershell
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python app.py
+```
+
 Backend runs at:
-👉 **[http://127.0.0.1:5000](http://127.0.0.1:5000)**
+**[http://127.0.0.1:5000](http://127.0.0.1:5000)**
 
 ---
