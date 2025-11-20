@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///home/issoupewd/Documents/sRM/secondtry/Front/app/decryption/page.tsx"],"sourcesContent":["import Link from 'next/link'\n\nexport default function DecryptionPage() {\n  return (\n    <main className=\"min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-slate-950 via-purple-950/40 to-slate-950 px-4\">\n      <div className=\"text-center space-y-6\">\n        <h1 className=\"text-4xl font-bold text-gray-400\">\n          Message Decryption\n        </h1>\n        <p className=\"text-lg text-gray-500\">\n          Coming soon\n        </p>\n        <Link href=\"/\" className=\"inline-block text-purple-400 hover:text-purple-300 transition-colors\">\n          ← Back to Home\n        </Link>\n      </div>\n    </main>\n  )\n}\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAK,WAAU;kBACd,cAAA,8OAAC;YAAI,WAAU;;8BACb,8OAAC;oBAAG,WAAU;8BAAmC;;;;;;8BAGjD,8OAAC;oBAAE,WAAU;8BAAwB;;;;;;8BAGrC,8OAAC,0LAAI;oBAAC,MAAK;oBAAI,WAAU;8BAAuE;;;;;;;;;;;;;;;;;AAMxG"}}]
+}
