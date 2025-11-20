@@ -16,7 +16,7 @@ All calculations are performed **entirely in the Python backend**.
 * Configure **R1, R2, R3**:
 
   * Initial state (bit buttons)
-  * Tap positions (S0, S1, S2…)
+  * Tap positions (...S2, S1, S0)
 * Backend generates for each register:
   ✔ Output sequence
   ✔ Practical period
