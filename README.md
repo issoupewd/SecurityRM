@@ -75,7 +75,7 @@ RunOnMachine/
    ├── FSM2LSFROnMachine.py   → FSM with 2 LFSRs (EXO 1)
    ├── FSM3LSFROnMachine.py   → FSM with 3 LFSRs (EXO 4)
    ├── FSMex01.txt
-   └── FSMex02.txt
+   └── FSMex04.txt
 ```
 
 ✔ No backend
