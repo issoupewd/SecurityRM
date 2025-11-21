@@ -1,0 +1,9 @@
+Key1: OQ?I?YPPX???J?    (score=0)
+Key2: QUEWYCRLNE?BXY    (score=6)
+Key3: M?RKRXNCYYXULR    (score=0)
+Key4: UO?SC?VRTAE?TC    (score=0)
+Key5: FINDELEXERCICE    (score=17)
+
+Best key: 5
+Decoded text: FINDELEXERCICE
+Score: 17
