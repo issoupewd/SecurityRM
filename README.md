@@ -1,6 +1,9 @@
 # **FSM Key Generator (LFSR-based)**
 
 A small tool for generating keystreams using **different LFSRs** and an **alternating-step FSM**.
+<p align="center">
+  <img src="main.png" width="1000" />
+</p>
 
 ### **FSM Architecture — EXO 4**
 
@@ -118,7 +121,12 @@ Frontend runs at:
 <p align="center">
   <img src="site.png" width="700" />
 </p>
-
+<p align="center">
+  <img src="site1.png" width="700" />
+</p>
+<p align="center">
+  <img src="site2.png" width="700" />
+</p>
 ---
 
 ## **🧠 Backend Setup (Python + Flask)**
